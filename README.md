@@ -99,5 +99,5 @@ conda deactivate
 
 - **Epochs:** 20,000 (adjustable in code)
 - **Batch size:** 100
-- **Learning rate:** 0.1 (SGD optimizer)
+- **Learning rate:** 0.02 (SGD optimizer)
 - **Dataset:** MNIST (28x28 grayscale images)
