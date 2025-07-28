@@ -22,8 +22,8 @@ python3 --version
 
 1. **Clone the repository:**
 ```bash
-git clone <your-repo-url>
-cd gan-implementation
+git clone https://github.com/bakirmohamed/GAN.git
+cd GAN
 ```
 
 2. **Create and activate virtual environment:**
