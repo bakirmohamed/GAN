@@ -1,0 +1,5 @@
+Keras
+matplotlib
+numpy
+torch
+tqdm
